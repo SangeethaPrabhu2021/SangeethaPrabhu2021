@@ -25,9 +25,24 @@ Hello there, Sangeetha Prabhu here. A student of BMS Institute of Technology and
 </h1>
   
 
-<!--  <a href="https://github.com/sangeethaprabhu2021/github-readme-activity-graph"><img alt="Sangeetha Prabhu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sangeethaprabhu2021&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+ <a href="https://github.com/sangeethaprabhu2021/github-readme-activity-graph"><img alt="Sangeetha Prabhu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sangeethaprabhu2021&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
 
-
+## Get in touch
+<p align="center">
+ 
+  
+   <a href="mailto:sangeethaprabhu007@gmail.com" target="_blank">
+   <img src="https://www.svgrepo.com/show/223047/gmail.svg" height="40px" alt="mail"/>
+   </a>&nbsp;&nbsp;
+   <a href="https://www.instagram.com/_sangeethaprabhu_/" target="_blank">
+   <img src="https://www.svgrepo.com/show/134478/instagram.svg" height="40px" alt="Instagram"/>
+   </a>&nbsp;&nbsp;
+   
+   <a href="https://www.linkedin.com/in/sangeetha-prabhu-86795a208/" target="_blank">
+   <img src="https://www.svgrepo.com/show/134579/linkedin.svg" height="40px"/>
+   </a>&nbsp;&nbsp;
+   
+</p>
 <!--
 **mixed-farming/mixed-farming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
