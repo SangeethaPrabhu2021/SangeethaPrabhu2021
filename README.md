@@ -1,5 +1,5 @@
 <h1 align="center"> 
- Greetings  |  नमस्ते  |  ನಮಸ್ಕಾರ  <img src="https://media.giphy.com/media/2vDJLn6LzoSSIJe3Xj/giphy.gif" alt="Waving hand animated gif" height="50" width="50" /> 
+ Greetings  |  नमस्ते  |  ನಮಸ್ಕಾರ  <img src="[https://media.giphy.com/media/2vDJLn6LzoSSIJe3Xj/giphy.gif](https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif)" alt="Waving hand animated gif" height="50" width="50" /> 
 </h1>
 
 <!-- wave hand gif : https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif -->
@@ -23,9 +23,7 @@ Hello there, Sangeetha Prabhu here. A student of BMS Institute of Technology and
   <img src="https://github-readme-stats.vercel.app/api?username=sangeethaprabhu2021&show_icons=true&theme=dark" alt=Sangeetha Prabhu's GitHub Stats" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangeethaprabhu2021&theme=dark" alt=" Sangeetha Prabhu's GitHub Stats" /><br>
 </h1>
-  
-
- <a href="https://github.com/sangeethaprabhu2021/github-readme-activity-graph"><img alt="Sangeetha Prabhu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sangeethaprabhu2021&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
+   <a href="https://github.com/sangeethaprabhu2021/github-readme-activity-graph"><img alt="Sangeetha Prabhu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sangeethaprabhu2021&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
 
 ## Get in touch
 <p align="center">
@@ -43,20 +41,6 @@ Hello there, Sangeetha Prabhu here. A student of BMS Institute of Technology and
    </a>&nbsp;&nbsp;
    
 </p>
-<!--
-**mixed-farming/mixed-farming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 
