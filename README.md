@@ -12,7 +12,7 @@ flgmkfdgkfgldkvlfklfk
 
 ---
 [![@manoj7's Holopin board](https://holopin.io/api/user/board?user=manoj7)](https://holopin.io/@manoj7)
-[![@sangeethaprabhu2021's Holopin board](https://hoopin.io/api/user/board?user=sangeethaprabhu2021)](https://www.holopin.io/@sangeethaprabhu2021)
+[![@sangeethaprabhu2021's Holopin board]
 
 ---
 
