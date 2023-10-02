@@ -10,8 +10,7 @@
 
 flgmkfdgkfgldkvlfklfk
 
----
-[![@manoj7's Holopin board](https://holopin.io/api/user/board?user=manoj7)](https://holopin.io/@manoj7)
+
 [![@sangeethaprabhu2021's Holopin board](https://holopin.me/sangeethaprabhu2021)](https://holopin.io/@sangeethaprabhu2021)
 
 ---
@@ -27,7 +26,7 @@ flgmkfdgkfgldkvlfklfk
 </h1>
   
 
-<!--  <a href="https://github.com/sangeethaprabhu2021/github-readme-activity-graph"><img alt="Sangeetha Prabhu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sangeet&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
+<!--  <a href="https://github.com/sangeethaprabhu2021/github-readme-activity-graph"><img alt="Sangeetha Prabhu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sangeethaprabhu2021&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 
 
 <!--
