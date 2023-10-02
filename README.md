@@ -1,11 +1,11 @@
 <h1 align="center"> 
- Greetings  |  नमस्ते  |  ನಮಸ್ಕಾರ  <img src="[https://media.giphy.com/media/2vDJLn6LzoSSIJe3Xj/giphy.gif]" alt="Waving hand animated gif" height="50" width="50" /> 
+ Greetings  |  नमस्ते  |  ನಮಸ್ಕಾರ  <img src="https://media.giphy.com/media/2vDJLn6LzoSSIJe3Xj/giphy.gif" alt="Waving hand animated gif" height="50" width="50" /> 
 </h1>
 
 <!-- wave hand gif : https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif -->
 
 <br><br>
-<p  align="center"><img src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif" width="300" height="250" align ="center">
+<p  align="center"><img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="300" height="250" align ="center">
 
 
 Hello there, Sangeetha Prabhu here. A student of BMS Institute of Technology and Management pursuing a B.E in Artificial Intelligence and Machine Learning
