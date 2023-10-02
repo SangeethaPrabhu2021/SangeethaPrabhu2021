@@ -4,8 +4,8 @@
 
 <!-- wave hand gif : https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif -->
 
-<br><br>
-<p  align="center"><img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="300" height="250" align ="center">
+<br>
+<p  align="center"><img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="300" height="450" align ="center">
 
 
 Hello there, Sangeetha Prabhu here. A student of BMS Institute of Technology and Management pursuing a B.E in Artificial Intelligence and Machine Learning
