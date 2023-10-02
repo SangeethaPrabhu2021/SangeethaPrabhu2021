@@ -8,7 +8,7 @@
 <p  align="center"><img src="https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif" width="300" height="250" align ="center">
 
 
-flgmkfdgkfgldkvlfklfk
+Hello there, Sangeetha Prabhu here. A student of BMS Institute of Technology and Management pursuing a B.E in Artificial Intelligence and Machine Learning
 
 
 [![@sangeethaprabhu2021's Holopin board](https://holopin.me/sangeethaprabhu2021)](https://holopin.io/@sangeethaprabhu2021)
