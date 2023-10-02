@@ -21,7 +21,6 @@ flgmkfdgkfgldkvlfklfk
 
 <h1 align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sangeethaprabhu2021&show_icons=true&theme=dark" alt=Sangeetha Prabhu's GitHub Stats" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangeethaprabhu2021&theme=dark&langs_count=10" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangeethaprabhu2021&theme=dark" alt=" Sangeetha Prabhu's GitHub Stats" /><br>
 </h1>
   
