@@ -10,7 +10,7 @@
 
 Hello there, Sangeetha Prabhu here. A student of BMS Institute of Technology and Management pursuing a B.E in Artificial Intelligence and Machine Learning
 
-[![@SangeethaPrabhu2021 's Holopin board](https://holopin.io/api/user/board?user=sangeethaprabhu2021)](https://holopin.io/@sangeethaprabhu2021) 
+[![@SangeethaPrabhu2021 's Holopin board](https://holopin.io/api/user/board?user=sangeethaprabhu2021)]([https://holopin.io/@sangeethaprabhu2021]) 
 
 ---
 
