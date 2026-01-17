@@ -7,31 +7,31 @@
 <br>
 <p  align="center"><img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="300" height="450" align ="center">
 
-👋 Hi, I’m Sangeetha Prabhu
+### 👋 Hi, I’m Sangeetha Prabhu
 
 I’m an Associate SDET with a strong foundation in automation testing, programming, and web development. I enjoy building reliable test frameworks, working closely with application layers, and contributing to high-quality, scalable software systems.
 
-💻 What I work with
+### 💻 What I work with
 
-Automation Testing: Selenium, Playwright
+**Automation Testing:** Selenium, Playwright
 
-Programming: Java, Python, SQL
+**Programming**: Java, Python, SQL
 
-Web Development: HTML, CSS, JavaScript
+**Web Development:** HTML, CSS, JavaScript
 
-API & Backend Testing: Postman, Rest Assured
+**API & Backend Testing:** Postman, Rest Assured
 
-CI/CD & Version Control: Jenkins, Git
+**CI/CD & Version Control:** Jenkins, Git
 
-Data Handling: NumPy, Pandas, Matplotlib
+**Data Handling:** NumPy, Pandas, Matplotlib
 
-🚀 What I’m focused on
+### 🚀What I’m focused on
 
-Writing scalable and maintainable automation
+ Writing scalable and maintainable automation
 
-Applying strong problem-solving and DSA concepts
+ Applying strong problem-solving and DSA concepts
 
-Ensuring software quality across web and backend layers
+ Ensuring software quality across web and backend layers
 
 ✨ I value clarity, consistency, and ownership in engineering.
 [![@SangeethaPrabhu2021 's Holopin board](https://holopin.io/api/user/board?user=sangeethaprabhu2021)]([https://holopin.io/@sangeethaprabhu2021]) 
