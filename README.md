@@ -17,18 +17,8 @@ Hello there, Sangeetha Prabhu here. A student of BMS Institute of Technology and
 ### Profile Statistics 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-sangeethaprabhu2021)
 <br>
-
-<h1 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangeethaprabhu2021&show_icons=true&theme=dark" alt=Sangeetha Prabhu's GitHub Stats" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sangeethaprabhu2021&theme=dark" alt=" Sangeetha Prabhu's GitHub Stats" /><br>
-</h1>
-   <a href="https://github.com/sangeethaprabhu2021/github-readme-activity-graph"><img alt="Sangeetha Prabhu's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sangeethaprabhu2021&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
-
-## Get in touch
-<p align="center">
- 
-  
-   <a href="mailto:sangeethaprabhu007@gmail.com" target="_blank">
+<p align="center"> 
+    <a href="mailto:sangeethaprabhu007@gmail.com" target="_blank">
    <img src="https://www.svgrepo.com/show/223047/gmail.svg" height="40px" alt="mail"/>
    </a>&nbsp;&nbsp;
    
