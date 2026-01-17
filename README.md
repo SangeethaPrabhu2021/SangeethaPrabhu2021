@@ -14,7 +14,7 @@ Hello there, Sangeetha Prabhu here. A student of BMS Institute of Technology and
 
 ---
 
-### Profile Statistics <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></h3>
+### Profile Statistics 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-sangeethaprabhu2021)
 <br>
 
@@ -30,9 +30,6 @@ Hello there, Sangeetha Prabhu here. A student of BMS Institute of Technology and
   
    <a href="mailto:sangeethaprabhu007@gmail.com" target="_blank">
    <img src="https://www.svgrepo.com/show/223047/gmail.svg" height="40px" alt="mail"/>
-   </a>&nbsp;&nbsp;
-   <a href="https://www.instagram.com/_sangeethaprabhu_/" target="_blank">
-   <img src="https://www.svgrepo.com/show/134478/instagram.svg" height="40px" alt="Instagram"/>
    </a>&nbsp;&nbsp;
    
    <a href="https://www.linkedin.com/in/sangeetha-prabhu-86795a208/" target="_blank">
